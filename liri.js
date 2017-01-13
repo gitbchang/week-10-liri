@@ -273,7 +273,10 @@ function doThis() {
             console.log(err);
         }
         else{
-            console.log(data);
+            var test = data.toString();
+            console.log(test);
+            // console.log(require('child_process').execFileSync(data).toString());
+            console.log(require('child_process').execSync(data).toString());
         }
     });
 }
