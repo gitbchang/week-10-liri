@@ -1,0 +1,3874 @@
+{
+  "tracks": {
+    "href": "https://api.spotify.com/v1/search?query=chainsmokers&offset=0&limit=20&type=track",
+    "items": [
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+              },
+              "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+              "id": "69GGBxA162lTqCwzJG5jLp",
+              "name": "The Chainsmokers",
+              "type": "artist",
+              "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE"
+          },
+          "href": "https://api.spotify.com/v1/albums/0rSLgV8p5FzfnqlEk4GzxE",
+          "id": "0rSLgV8p5FzfnqlEk4GzxE",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/512bd22e2bc73f9883b8612daf4f23acaac3c776",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/2e244b9284d317b2019bb9fd44d9a086210d4974",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/57ba46d39d710e99ae524b279cae3a3981ace43f",
+              "width": 64
+            }
+          ],
+          "name": "Closer",
+          "type": "album",
+          "uri": "spotify:album:0rSLgV8p5FzfnqlEk4GzxE"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+            },
+            "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+            "id": "69GGBxA162lTqCwzJG5jLp",
+            "name": "The Chainsmokers",
+            "type": "artist",
+            "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+            },
+            "href": "https://api.spotify.com/v1/artists/26VFTg2z8YR0cCuwLzESi2",
+            "id": "26VFTg2z8YR0cCuwLzESi2",
+            "name": "Halsey",
+            "type": "artist",
+            "uri": "spotify:artist:26VFTg2z8YR0cCuwLzESi2"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 244960,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USQX91601347"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7BKLCZ1jbUBVqRi2FVlTVw",
+        "id": "7BKLCZ1jbUBVqRi2FVlTVw",
+        "name": "Closer",
+        "popularity": 100,
+        "preview_url": "https://p.scdn.co/mp3-preview/8d3df1c64907cb183bff5a127b1525b530992afb?cid=null",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7BKLCZ1jbUBVqRi2FVlTVw"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+              },
+              "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+              "id": "69GGBxA162lTqCwzJG5jLp",
+              "name": "The Chainsmokers",
+              "type": "artist",
+              "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/0xmaV6EtJ4M3ebZUPRnhyb"
+          },
+          "href": "https://api.spotify.com/v1/albums/0xmaV6EtJ4M3ebZUPRnhyb",
+          "id": "0xmaV6EtJ4M3ebZUPRnhyb",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/13185a5000fe6eba7dea78bb3987bec8413f8d7d",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/b67d30b8e4d3a00b2614cdab9aefd526babf6483",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/e93122c792ca361ddef416efbb055432d47f4f46",
+              "width": 64
+            }
+          ],
+          "name": "All We Know",
+          "type": "album",
+          "uri": "spotify:album:0xmaV6EtJ4M3ebZUPRnhyb"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+            },
+            "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+            "id": "69GGBxA162lTqCwzJG5jLp",
+            "name": "The Chainsmokers",
+            "type": "artist",
+            "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr"
+            },
+            "href": "https://api.spotify.com/v1/artists/4N874uPqBka1QiCvnCVOtr",
+            "id": "4N874uPqBka1QiCvnCVOtr",
+            "name": "Phoebe Ryan",
+            "type": "artist",
+            "uri": "spotify:artist:4N874uPqBka1QiCvnCVOtr"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 194080,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USQX91602153"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2rizacJSyD9S1IQUxUxnsK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2rizacJSyD9S1IQUxUxnsK",
+        "id": "2rizacJSyD9S1IQUxUxnsK",
+        "name": "All We Know",
+        "popularity": 95,
+        "preview_url": "https://p.scdn.co/mp3-preview/179c414697a1599fbda0e8a1ba8c3f8764adeb34?cid=null",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2rizacJSyD9S1IQUxUxnsK"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+              },
+              "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+              "id": "69GGBxA162lTqCwzJG5jLp",
+              "name": "The Chainsmokers",
+              "type": "artist",
+              "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2SByipSK8eZ2pasaIwwzhf"
+          },
+          "href": "https://api.spotify.com/v1/albums/2SByipSK8eZ2pasaIwwzhf",
+          "id": "2SByipSK8eZ2pasaIwwzhf",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/506b3aee8a743d125460453499a56cb64e5a43ec",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/f5ddf8464e50065bd061e664125c6f02feb741d5",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/54ceabc3b314f4a5003b3c4dd6c6413694ff1146",
+              "width": 64
+            }
+          ],
+          "name": "Don't Let Me Down",
+          "type": "album",
+          "uri": "spotify:album:2SByipSK8eZ2pasaIwwzhf"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+            },
+            "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+            "id": "69GGBxA162lTqCwzJG5jLp",
+            "name": "The Chainsmokers",
+            "type": "artist",
+            "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Dd3NScHWwnW6obMFbl1BH",
+            "id": "6Dd3NScHWwnW6obMFbl1BH",
+            "name": "Daya",
+            "type": "artist",
+            "uri": "spotify:artist:6Dd3NScHWwnW6obMFbl1BH"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 208373,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USQX91600011"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1i1fxkWeaMmKEB4T7zqbzK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1i1fxkWeaMmKEB4T7zqbzK",
+        "id": "1i1fxkWeaMmKEB4T7zqbzK",
+        "name": "Don't Let Me Down",
+        "popularity": 93,
+        "preview_url": "https://p.scdn.co/mp3-preview/4f410d4293b502e25df3e782c443d1745382c3da?cid=null",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1i1fxkWeaMmKEB4T7zqbzK"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+              },
+              "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+              "id": "69GGBxA162lTqCwzJG5jLp",
+              "name": "The Chainsmokers",
+              "type": "artist",
+              "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/22rp3PnM3q2mtTI0OGCzpq"
+          },
+          "href": "https://api.spotify.com/v1/albums/22rp3PnM3q2mtTI0OGCzpq",
+          "id": "22rp3PnM3q2mtTI0OGCzpq",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/e1fe0c714864de352d0092d3c30a9522d0e0e727",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/cef4f3c6e8341b5a1cb8af6eb089b3e7b290ae04",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/fb61145e78ecb61ccc84244070ea77d8ac34a1f5",
+              "width": 64
+            }
+          ],
+          "name": "Collage EP",
+          "type": "album",
+          "uri": "spotify:album:22rp3PnM3q2mtTI0OGCzpq"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+            },
+            "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+            "id": "69GGBxA162lTqCwzJG5jLp",
+            "name": "The Chainsmokers",
+            "type": "artist",
+            "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW"
+            },
+            "href": "https://api.spotify.com/v1/artists/6ioOEWNNGK40H8xrGj6XPW",
+            "id": "6ioOEWNNGK40H8xrGj6XPW",
+            "name": "XYLØ",
+            "type": "artist",
+            "uri": "spotify:artist:6ioOEWNNGK40H8xrGj6XPW"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 247426,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USQX91602152"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2PC9Tl8SWVO2yhDDtJcrAi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2PC9Tl8SWVO2yhDDtJcrAi",
+        "id": "2PC9Tl8SWVO2yhDDtJcrAi",
+        "name": "Setting Fires",
+        "popularity": 86,
+        "preview_url": "https://p.scdn.co/mp3-preview/93051b9a6fceca569196828e7d72836517872de4?cid=null",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2PC9Tl8SWVO2yhDDtJcrAi"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+              },
+              "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+              "id": "69GGBxA162lTqCwzJG5jLp",
+              "name": "The Chainsmokers",
+              "type": "artist",
+              "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2GFflENKz28RcMoSuulPZC"
+          },
+          "href": "https://api.spotify.com/v1/albums/2GFflENKz28RcMoSuulPZC",
+          "id": "2GFflENKz28RcMoSuulPZC",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/d116e5ec74862d1f64a5b996131ffc1d1758730c",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ce510f8529b0773042a3cafc3c4ed994f1a4f8cc",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/727b6bf5e9e45c3e39f413c3acf94fc45408a545",
+              "width": 64
+            }
+          ],
+          "name": "Roses",
+          "type": "album",
+          "uri": "spotify:album:2GFflENKz28RcMoSuulPZC"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+            },
+            "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+            "id": "69GGBxA162lTqCwzJG5jLp",
+            "name": "The Chainsmokers",
+            "type": "artist",
+            "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
+            },
+            "href": "https://api.spotify.com/v1/artists/6jsjhAEteAlY0vCiLvMLBA",
+            "id": "6jsjhAEteAlY0vCiLvMLBA",
+            "name": "ROZES",
+            "type": "artist",
+            "uri": "spotify:artist:6jsjhAEteAlY0vCiLvMLBA"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 226738,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USQX91500801"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3vv9phIu6Y1vX3jcqaGz5Z"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3vv9phIu6Y1vX3jcqaGz5Z",
+        "id": "3vv9phIu6Y1vX3jcqaGz5Z",
+        "name": "Roses",
+        "popularity": 85,
+        "preview_url": "https://p.scdn.co/mp3-preview/551ca104a8e572832a6873d5d6b205c430e291fd?cid=null",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3vv9phIu6Y1vX3jcqaGz5Z"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+              },
+              "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+              "id": "69GGBxA162lTqCwzJG5jLp",
+              "name": "The Chainsmokers",
+              "type": "artist",
+              "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/64vx3cUb97lQGlgt8zozWL"
+          },
+          "href": "https://api.spotify.com/v1/albums/64vx3cUb97lQGlgt8zozWL",
+          "id": "64vx3cUb97lQGlgt8zozWL",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/c368fccee1b5ee225dc771075cc5f2fc1bdc8c4d",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/512156c3c2c4d8c6fb827918bdc1bcb1744a110c",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ae489269fc8ff698a864cdc28072dc71b81b0f37",
+              "width": 64
+            }
+          ],
+          "name": "Paris",
+          "type": "album",
+          "uri": "spotify:album:64vx3cUb97lQGlgt8zozWL"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+            },
+            "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+            "id": "69GGBxA162lTqCwzJG5jLp",
+            "name": "The Chainsmokers",
+            "type": "artist",
+            "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 221520,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USQX91603031"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/15vzANxN8G9wWfwAJLLMCg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/15vzANxN8G9wWfwAJLLMCg",
+        "id": "15vzANxN8G9wWfwAJLLMCg",
+        "name": "Paris",
+        "popularity": 76,
+        "preview_url": "https://p.scdn.co/mp3-preview/2524797ca9b06a157f21199be68f0f0e94f71661?cid=null",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:15vzANxN8G9wWfwAJLLMCg"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+              },
+              "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+              "id": "69GGBxA162lTqCwzJG5jLp",
+              "name": "The Chainsmokers",
+              "type": "artist",
+              "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5BJeN4SVEKe204y2SiszOe"
+          },
+          "href": "https://api.spotify.com/v1/albums/5BJeN4SVEKe204y2SiszOe",
+          "id": "5BJeN4SVEKe204y2SiszOe",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/b770634b2c8c534b2526927cac3d93c88488b371",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/c8ac45e92be0fa4c93530471b060e21531511c4b",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/323214b1a1617e04de1b1c6a46a30b362f30ee5f",
+              "width": 64
+            }
+          ],
+          "name": "Setting Fires",
+          "type": "album",
+          "uri": "spotify:album:5BJeN4SVEKe204y2SiszOe"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+            },
+            "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+            "id": "69GGBxA162lTqCwzJG5jLp",
+            "name": "The Chainsmokers",
+            "type": "artist",
+            "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW"
+            },
+            "href": "https://api.spotify.com/v1/artists/6ioOEWNNGK40H8xrGj6XPW",
+            "id": "6ioOEWNNGK40H8xrGj6XPW",
+            "name": "XYLØ",
+            "type": "artist",
+            "uri": "spotify:artist:6ioOEWNNGK40H8xrGj6XPW"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 247426,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USQX91602152"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0B8B8cVRFIG1yznoQe7c9s"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0B8B8cVRFIG1yznoQe7c9s",
+        "id": "0B8B8cVRFIG1yznoQe7c9s",
+        "name": "Setting Fires",
+        "popularity": 81,
+        "preview_url": "https://p.scdn.co/mp3-preview/93051b9a6fceca569196828e7d72836517872de4?cid=null",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0B8B8cVRFIG1yznoQe7c9s"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+              },
+              "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+              "id": "69GGBxA162lTqCwzJG5jLp",
+              "name": "The Chainsmokers",
+              "type": "artist",
+              "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/7mgjbCQ1gzFbASVLgD8YbV"
+          },
+          "href": "https://api.spotify.com/v1/albums/7mgjbCQ1gzFbASVLgD8YbV",
+          "id": "7mgjbCQ1gzFbASVLgD8YbV",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/f73add6bd243401e0def287f252621c20153f7cb",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/a8bf07c8da6d0efc94ebce0acab97b1b22675704",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/51b9a8269c2b748fc4711321c567bd10ba8d108a",
+              "width": 64
+            }
+          ],
+          "name": "Inside Out",
+          "type": "album",
+          "uri": "spotify:album:7mgjbCQ1gzFbASVLgD8YbV"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+            },
+            "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+            "id": "69GGBxA162lTqCwzJG5jLp",
+            "name": "The Chainsmokers",
+            "type": "artist",
+            "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6qaQDRYp95AylkA1FnEI3Q"
+            },
+            "href": "https://api.spotify.com/v1/artists/6qaQDRYp95AylkA1FnEI3Q",
+            "id": "6qaQDRYp95AylkA1FnEI3Q",
+            "name": "Charlee",
+            "type": "artist",
+            "uri": "spotify:artist:6qaQDRYp95AylkA1FnEI3Q"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 233773,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USQX91600467"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7sG2bWi2eDtvX9vX8yC1Gn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7sG2bWi2eDtvX9vX8yC1Gn",
+        "id": "7sG2bWi2eDtvX9vX8yC1Gn",
+        "name": "Inside Out",
+        "popularity": 76,
+        "preview_url": "https://p.scdn.co/mp3-preview/e0bd2955b42fddc7fd9866395c39d8613dd4e083?cid=null",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7sG2bWi2eDtvX9vX8yC1Gn"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+              },
+              "href": "https://api.spotify.com/v1/artists/1mSJCvDX0W7Dn7S9C6vmvI",
+              "id": "1mSJCvDX0W7Dn7S9C6vmvI",
+              "name": "Anna Of The North",
+              "type": "artist",
+              "uri": "spotify:artist:1mSJCvDX0W7Dn7S9C6vmvI"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/31x1096qReQebv3YyADEp6"
+          },
+          "href": "https://api.spotify.com/v1/albums/31x1096qReQebv3YyADEp6",
+          "id": "31x1096qReQebv3YyADEp6",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/608ccb5c5ed97b12bee44cafd548d7ed7dfc1e1a",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/40460ea4981e9da938e8202d749ea74b96cf1c7a",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/372974e55562b5a7e8460fd9e5bb51f2e411f587",
+              "width": 64
+            }
+          ],
+          "name": "Sway (Chainsmokers Remix)",
+          "type": "album",
+          "uri": "spotify:album:31x1096qReQebv3YyADEp6"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+            },
+            "href": "https://api.spotify.com/v1/artists/1mSJCvDX0W7Dn7S9C6vmvI",
+            "id": "1mSJCvDX0W7Dn7S9C6vmvI",
+            "name": "Anna Of The North",
+            "type": "artist",
+            "uri": "spotify:artist:1mSJCvDX0W7Dn7S9C6vmvI"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 180571,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USLGZ1400028"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/08qjPXZBdEyif5PxU2AY9S"
+        },
+        "href": "https://api.spotify.com/v1/tracks/08qjPXZBdEyif5PxU2AY9S",
+        "id": "08qjPXZBdEyif5PxU2AY9S",
+        "name": "Sway - Chainsmokers Remix",
+        "popularity": 61,
+        "preview_url": "https://p.scdn.co/mp3-preview/302ddf01a4759536bd62a056027b7b73df355cd0?cid=null",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:08qjPXZBdEyif5PxU2AY9S"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+              },
+              "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+              "id": "69GGBxA162lTqCwzJG5jLp",
+              "name": "The Chainsmokers",
+              "type": "artist",
+              "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76"
+              },
+              "href": "https://api.spotify.com/v1/artists/521qvhdobR0GzhvU6TFw76",
+              "id": "521qvhdobR0GzhvU6TFw76",
+              "name": "Tritonal",
+              "type": "artist",
+              "uri": "spotify:artist:521qvhdobR0GzhvU6TFw76"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/57xpW4q7DYWh7pWzrJ7dK0"
+          },
+          "href": "https://api.spotify.com/v1/albums/57xpW4q7DYWh7pWzrJ7dK0",
+          "id": "57xpW4q7DYWh7pWzrJ7dK0",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/bb75f2b76f245fd8c22a2a18647e274d83acf4cc",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/fec6caf443df9740858c74327c31366a8394fa1c",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/18e00dc4dd11a0a07c823da5a3da1145e20f7685",
+              "width": 64
+            }
+          ],
+          "name": "Until You Were Gone",
+          "type": "album",
+          "uri": "spotify:album:57xpW4q7DYWh7pWzrJ7dK0"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+            },
+            "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+            "id": "69GGBxA162lTqCwzJG5jLp",
+            "name": "The Chainsmokers",
+            "type": "artist",
+            "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76"
+            },
+            "href": "https://api.spotify.com/v1/artists/521qvhdobR0GzhvU6TFw76",
+            "id": "521qvhdobR0GzhvU6TFw76",
+            "name": "Tritonal",
+            "type": "artist",
+            "uri": "spotify:artist:521qvhdobR0GzhvU6TFw76"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1"
+            },
+            "href": "https://api.spotify.com/v1/artists/1oKdM70mJD8VvDOTKeS8t1",
+            "id": "1oKdM70mJD8VvDOTKeS8t1",
+            "name": "Emily Warren",
+            "type": "artist",
+            "uri": "spotify:artist:1oKdM70mJD8VvDOTKeS8t1"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 215624,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USQX91502473"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/12MqM3S0fTvR6X4Jt1Xvn6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/12MqM3S0fTvR6X4Jt1Xvn6",
+        "id": "12MqM3S0fTvR6X4Jt1Xvn6",
+        "name": "Until You Were Gone",
+        "popularity": 73,
+        "preview_url": "https://p.scdn.co/mp3-preview/88e8894d1328849f7024206cba3419464c359838?cid=null",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:12MqM3S0fTvR6X4Jt1Xvn6"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+              },
+              "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+              "id": "69GGBxA162lTqCwzJG5jLp",
+              "name": "The Chainsmokers",
+              "type": "artist",
+              "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5yhNY3zM1Vx1oaL3GYTWIZ"
+          },
+          "href": "https://api.spotify.com/v1/albums/5yhNY3zM1Vx1oaL3GYTWIZ",
+          "id": "5yhNY3zM1Vx1oaL3GYTWIZ",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/fb6a87879a8d8fb9191fa3068d742038a6067fa8",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/7eabb296b5ba2babaa5ffafeda93af44477ddc78",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/07fb4fb36de2cf69174952136c687e1dfa946b87",
+              "width": 64
+            }
+          ],
+          "name": "Don't Let Me Down (Remixes)",
+          "type": "album",
+          "uri": "spotify:album:5yhNY3zM1Vx1oaL3GYTWIZ"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+            },
+            "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+            "id": "69GGBxA162lTqCwzJG5jLp",
+            "name": "The Chainsmokers",
+            "type": "artist",
+            "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Dd3NScHWwnW6obMFbl1BH",
+            "id": "6Dd3NScHWwnW6obMFbl1BH",
+            "name": "Daya",
+            "type": "artist",
+            "uri": "spotify:artist:6Dd3NScHWwnW6obMFbl1BH"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+            },
+            "href": "https://api.spotify.com/v1/artists/45eNHdiiabvmbp4erw26rg",
+            "id": "45eNHdiiabvmbp4erw26rg",
+            "name": "Illenium",
+            "type": "artist",
+            "uri": "spotify:artist:45eNHdiiabvmbp4erw26rg"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 218933,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USQX91601626"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/15BlympuVSfZFROojEMY2M"
+        },
+        "href": "https://api.spotify.com/v1/tracks/15BlympuVSfZFROojEMY2M",
+        "id": "15BlympuVSfZFROojEMY2M",
+        "name": "Don't Let Me Down - Illenium Remix",
+        "popularity": 74,
+        "preview_url": "https://p.scdn.co/mp3-preview/c7721aa9e1a24f63604e4f3fce3acb074bff2049?cid=null",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:15BlympuVSfZFROojEMY2M"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+              },
+              "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+              "id": "69GGBxA162lTqCwzJG5jLp",
+              "name": "The Chainsmokers",
+              "type": "artist",
+              "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+            }
+          ],
+          "available_markets": [
+            "CA",
+            "MX",
+            "US"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1kDxLifAXYG0I81ynPPRcn"
+          },
+          "href": "https://api.spotify.com/v1/albums/1kDxLifAXYG0I81ynPPRcn",
+          "id": "1kDxLifAXYG0I81ynPPRcn",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/4585d9da3de372888f25611987405a9efcd93b38",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/56037241c33a2e1369e40a1d49e0ff0dc8d76f50",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/5487acf8d22aa518645d90135d8a9a1fed3e902e",
+              "width": 64
+            }
+          ],
+          "name": "Kanye",
+          "type": "album",
+          "uri": "spotify:album:1kDxLifAXYG0I81ynPPRcn"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+            },
+            "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+            "id": "69GGBxA162lTqCwzJG5jLp",
+            "name": "The Chainsmokers",
+            "type": "artist",
+            "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1QM03lnjHcx2l52sWaW5V5"
+            },
+            "href": "https://api.spotify.com/v1/artists/1QM03lnjHcx2l52sWaW5V5",
+            "id": "1QM03lnjHcx2l52sWaW5V5",
+            "name": "sirenXX",
+            "type": "artist",
+            "uri": "spotify:artist:1QM03lnjHcx2l52sWaW5V5"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 229946,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USDM31400171"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5brMyscUnQg14hMriS91ks"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5brMyscUnQg14hMriS91ks",
+        "id": "5brMyscUnQg14hMriS91ks",
+        "name": "Kanye",
+        "popularity": 67,
+        "preview_url": "https://p.scdn.co/mp3-preview/5587e076ba63c743e61152576631baf484ed87a3?cid=null",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5brMyscUnQg14hMriS91ks"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+              },
+              "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+              "id": "69GGBxA162lTqCwzJG5jLp",
+              "name": "The Chainsmokers",
+              "type": "artist",
+              "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5Y0WAOEQgulzCuG9QrixVj"
+          },
+          "href": "https://api.spotify.com/v1/albums/5Y0WAOEQgulzCuG9QrixVj",
+          "id": "5Y0WAOEQgulzCuG9QrixVj",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/8e5e56bbc6345e333868777f627e8666d025738f",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/34fa8dbf61524b42983fa6002cb69494fe088dc5",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/2a7592aec60501e284131dda152c4672889f20ba",
+              "width": 64
+            }
+          ],
+          "name": "New York City",
+          "type": "album",
+          "uri": "spotify:album:5Y0WAOEQgulzCuG9QrixVj"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+            },
+            "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+            "id": "69GGBxA162lTqCwzJG5jLp",
+            "name": "The Chainsmokers",
+            "type": "artist",
+            "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 230666,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USQX91503051"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4v1CvZazmdpxQLEt3sCeKH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4v1CvZazmdpxQLEt3sCeKH",
+        "id": "4v1CvZazmdpxQLEt3sCeKH",
+        "name": "New York City",
+        "popularity": 70,
+        "preview_url": "https://p.scdn.co/mp3-preview/2830046aca698b93da2cd02c5bde8a907bec505e?cid=null",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4v1CvZazmdpxQLEt3sCeKH"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+              },
+              "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+              "id": "69GGBxA162lTqCwzJG5jLp",
+              "name": "The Chainsmokers",
+              "type": "artist",
+              "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4uybSOe9s5FAYVvUyzXOiR"
+          },
+          "href": "https://api.spotify.com/v1/albums/4uybSOe9s5FAYVvUyzXOiR",
+          "id": "4uybSOe9s5FAYVvUyzXOiR",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/6b0f6c9611245c7b1ebe716b876a44dc99c5b3ee",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/0c014536845b40678df2bf3a19ea6a1370293d4f",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/8e67954a8c3d7f642b97ab65f7e2c14793bb0c86",
+              "width": 64
+            }
+          ],
+          "name": "Closer (Remixes)",
+          "type": "album",
+          "uri": "spotify:album:4uybSOe9s5FAYVvUyzXOiR"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+            },
+            "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+            "id": "69GGBxA162lTqCwzJG5jLp",
+            "name": "The Chainsmokers",
+            "type": "artist",
+            "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+            },
+            "href": "https://api.spotify.com/v1/artists/26VFTg2z8YR0cCuwLzESi2",
+            "id": "26VFTg2z8YR0cCuwLzESi2",
+            "name": "Halsey",
+            "type": "artist",
+            "uri": "spotify:artist:26VFTg2z8YR0cCuwLzESi2"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/6cEuCEZu7PAE9ZSzLLc2oQ",
+            "id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+            "name": "R3hab",
+            "type": "artist",
+            "uri": "spotify:artist:6cEuCEZu7PAE9ZSzLLc2oQ"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 161120,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USQX91602095"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0Ye1olMyvB2rLjZ4vlYVWI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0Ye1olMyvB2rLjZ4vlYVWI",
+        "id": "0Ye1olMyvB2rLjZ4vlYVWI",
+        "name": "Closer - R3hab Remix",
+        "popularity": 73,
+        "preview_url": "https://p.scdn.co/mp3-preview/6b65fe1cd633d97648d8bf6359ab677eb21a680c?cid=null",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0Ye1olMyvB2rLjZ4vlYVWI"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw"
+              },
+              "href": "https://api.spotify.com/v1/artists/4iiQabGKtS2RtTKpVkrVTw",
+              "id": "4iiQabGKtS2RtTKpVkrVTw",
+              "name": "Smallpools",
+              "type": "artist",
+              "uri": "spotify:artist:4iiQabGKtS2RtTKpVkrVTw"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6s3mToHfR82x0g6rd0KAgN"
+          },
+          "href": "https://api.spotify.com/v1/albums/6s3mToHfR82x0g6rd0KAgN",
+          "id": "6s3mToHfR82x0g6rd0KAgN",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/5455c069742c22d5c457edf3453e9183caf5428a",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/cf918d3077a1021a09ed2cb4232aa3848e8cbbcf",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/3cf81433a40cb7a8a1f3fc021c8ea9742815f177",
+              "width": 64
+            }
+          ],
+          "name": "Dreaming Remix EP",
+          "type": "album",
+          "uri": "spotify:album:6s3mToHfR82x0g6rd0KAgN"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw"
+            },
+            "href": "https://api.spotify.com/v1/artists/4iiQabGKtS2RtTKpVkrVTw",
+            "id": "4iiQabGKtS2RtTKpVkrVTw",
+            "name": "Smallpools",
+            "type": "artist",
+            "uri": "spotify:artist:4iiQabGKtS2RtTKpVkrVTw"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+            },
+            "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+            "id": "69GGBxA162lTqCwzJG5jLp",
+            "name": "The Chainsmokers",
+            "type": "artist",
+            "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 297906,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USRC11301014"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6lOsjTvgGL08uRf2nKrSed"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6lOsjTvgGL08uRf2nKrSed",
+        "id": "6lOsjTvgGL08uRf2nKrSed",
+        "name": "Dreaming - The Chainsmokers Remix",
+        "popularity": 57,
+        "preview_url": "https://p.scdn.co/mp3-preview/96be31334611b11c3a385bb1701b34f5861aa885?cid=null",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6lOsjTvgGL08uRf2nKrSed"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+              },
+              "href": "https://api.spotify.com/v1/artists/64M6ah0SkkRsnPGtGiRAbb",
+              "id": "64M6ah0SkkRsnPGtGiRAbb",
+              "name": "Bebe Rexha",
+              "type": "artist",
+              "uri": "spotify:artist:64M6ah0SkkRsnPGtGiRAbb"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5AI90HAchDmkZ7A1pDOXlX"
+          },
+          "href": "https://api.spotify.com/v1/albums/5AI90HAchDmkZ7A1pDOXlX",
+          "id": "5AI90HAchDmkZ7A1pDOXlX",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/81fc41d9ee95c1cd6d9c0651bbf2b5d8cfae40a2",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/75f2f22fef5e8f73d09aef15324d4346f774e785",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/4dc431fc062a192334c6bd6306ba96bf64880190",
+              "width": 64
+            }
+          ],
+          "name": "I Can't Stop Drinking About You Remix EP",
+          "type": "album",
+          "uri": "spotify:album:5AI90HAchDmkZ7A1pDOXlX"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+            },
+            "href": "https://api.spotify.com/v1/artists/64M6ah0SkkRsnPGtGiRAbb",
+            "id": "64M6ah0SkkRsnPGtGiRAbb",
+            "name": "Bebe Rexha",
+            "type": "artist",
+            "uri": "spotify:artist:64M6ah0SkkRsnPGtGiRAbb"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+            },
+            "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+            "id": "69GGBxA162lTqCwzJG5jLp",
+            "name": "The Chainsmokers",
+            "type": "artist",
+            "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 263960,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USWB11402419"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/56T1QA7202iW7fZes2PTUe"
+        },
+        "href": "https://api.spotify.com/v1/tracks/56T1QA7202iW7fZes2PTUe",
+        "id": "56T1QA7202iW7fZes2PTUe",
+        "name": "I Can't Stop Drinking About You - Chainsmokers Remix",
+        "popularity": 68,
+        "preview_url": "https://p.scdn.co/mp3-preview/9e403fe2bf1397f3b9f0888cedbb3f5c51a48e9c?cid=null",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:56T1QA7202iW7fZes2PTUe"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+              },
+              "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+              "id": "69GGBxA162lTqCwzJG5jLp",
+              "name": "The Chainsmokers",
+              "type": "artist",
+              "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2STjWMmq8CwbLKvvMua7wG"
+          },
+          "href": "https://api.spotify.com/v1/albums/2STjWMmq8CwbLKvvMua7wG",
+          "id": "2STjWMmq8CwbLKvvMua7wG",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/14a3637a95910396b75242d0d6e37ba259cba183",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/a84d7ec332ce3d6ed5530b44dd11d7ddda09e60e",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/19c070c98805fb6bdc4fce4a5d3a89438e8a3658",
+              "width": 64
+            }
+          ],
+          "name": "Setting Fires (Remixes)",
+          "type": "album",
+          "uri": "spotify:album:2STjWMmq8CwbLKvvMua7wG"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+            },
+            "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+            "id": "69GGBxA162lTqCwzJG5jLp",
+            "name": "The Chainsmokers",
+            "type": "artist",
+            "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW"
+            },
+            "href": "https://api.spotify.com/v1/artists/6ioOEWNNGK40H8xrGj6XPW",
+            "id": "6ioOEWNNGK40H8xrGj6XPW",
+            "name": "XYLØ",
+            "type": "artist",
+            "uri": "spotify:artist:6ioOEWNNGK40H8xrGj6XPW"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T"
+            },
+            "href": "https://api.spotify.com/v1/artists/2LY0E3xg8svCVYXVNTze5T",
+            "id": "2LY0E3xg8svCVYXVNTze5T",
+            "name": "Vanic",
+            "type": "artist",
+            "uri": "spotify:artist:2LY0E3xg8svCVYXVNTze5T"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 169586,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USQX91602846"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4Cka9hWfkA8o0N8m0tPR0g"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4Cka9hWfkA8o0N8m0tPR0g",
+        "id": "4Cka9hWfkA8o0N8m0tPR0g",
+        "name": "Setting Fires - Vanic Remix",
+        "popularity": 64,
+        "preview_url": "https://p.scdn.co/mp3-preview/42bedaeeb6c4aa31a7635b1d325e6a9855d73c25?cid=null",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:4Cka9hWfkA8o0N8m0tPR0g"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6e4aHkdDUcsaXPTQdF6Qhn"
+              },
+              "href": "https://api.spotify.com/v1/artists/6e4aHkdDUcsaXPTQdF6Qhn",
+              "id": "6e4aHkdDUcsaXPTQdF6Qhn",
+              "name": "Life of Dillon",
+              "type": "artist",
+              "uri": "spotify:artist:6e4aHkdDUcsaXPTQdF6Qhn"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "JP",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3AONfQH61kyxAIXVyIwFOI"
+          },
+          "href": "https://api.spotify.com/v1/albums/3AONfQH61kyxAIXVyIwFOI",
+          "id": "3AONfQH61kyxAIXVyIwFOI",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/63d789f6c6cfc74e4057c766b74b27bf778dad60",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/e751f855293a1d69f9e8fc5d5f767b527e804c46",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/1d7132cece3df6ae3f14f906cf4ca5711d94bf1a",
+              "width": 64
+            }
+          ],
+          "name": "Prologue (Remixes)",
+          "type": "album",
+          "uri": "spotify:album:3AONfQH61kyxAIXVyIwFOI"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6e4aHkdDUcsaXPTQdF6Qhn"
+            },
+            "href": "https://api.spotify.com/v1/artists/6e4aHkdDUcsaXPTQdF6Qhn",
+            "id": "6e4aHkdDUcsaXPTQdF6Qhn",
+            "name": "Life of Dillon",
+            "type": "artist",
+            "uri": "spotify:artist:6e4aHkdDUcsaXPTQdF6Qhn"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "JP",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 197016,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USSM11505648"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/18KDpXD6e2UGRA5ORND1CU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/18KDpXD6e2UGRA5ORND1CU",
+        "id": "18KDpXD6e2UGRA5ORND1CU",
+        "name": "Overload - The Chainsmokers Remix",
+        "popularity": 57,
+        "preview_url": "https://p.scdn.co/mp3-preview/40161a41f13df806c9db37d44f0c2a8cd984ed8b?cid=null",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:18KDpXD6e2UGRA5ORND1CU"
+      },
+      {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+              },
+              "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+              "id": "69GGBxA162lTqCwzJG5jLp",
+              "name": "The Chainsmokers",
+              "type": "artist",
+              "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+            }
+          ],
+          "available_markets": [
+            "CA",
+            "MX",
+            "US"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6byfYx5eA7Htb7a5v76LPB"
+          },
+          "href": "https://api.spotify.com/v1/albums/6byfYx5eA7Htb7a5v76LPB",
+          "id": "6byfYx5eA7Htb7a5v76LPB",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/03aba72d44d250281b7423f81b4cfac97baf5679",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/169837cd231d540c60787f1a7dd25f48112d0036",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/4ec7fe66ef6f8a9a7db6f1a965c2293ad1f8a51c",
+              "width": 64
+            }
+          ],
+          "name": "Let You Go (Radio Edit)",
+          "type": "album",
+          "uri": "spotify:album:6byfYx5eA7Htb7a5v76LPB"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+            },
+            "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+            "id": "69GGBxA162lTqCwzJG5jLp",
+            "name": "The Chainsmokers",
+            "type": "artist",
+            "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH"
+            },
+            "href": "https://api.spotify.com/v1/artists/422RLznpwUa5FsQgnTlgUH",
+            "id": "422RLznpwUa5FsQgnTlgUH",
+            "name": "Great Good Fine Ok",
+            "type": "artist",
+            "uri": "spotify:artist:422RLznpwUa5FsQgnTlgUH"
+          }
+        ],
+        "available_markets": [
+          "CA",
+          "MX",
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 218973,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USDM31567301"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2Mh0jU5IyRTQfpyMnvki5Z"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2Mh0jU5IyRTQfpyMnvki5Z",
+        "id": "2Mh0jU5IyRTQfpyMnvki5Z",
+        "name": "Let You Go - Radio Edit",
+        "popularity": 62,
+        "preview_url": "https://p.scdn.co/mp3-preview/ae17b0d411560303939efdd248ebc04f76e3f271?cid=null",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2Mh0jU5IyRTQfpyMnvki5Z"
+      },
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+              },
+              "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+              "id": "69GGBxA162lTqCwzJG5jLp",
+              "name": "The Chainsmokers",
+              "type": "artist",
+              "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IS",
+            "IT",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TR",
+            "TW",
+            "US",
+            "UY"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5yhNY3zM1Vx1oaL3GYTWIZ"
+          },
+          "href": "https://api.spotify.com/v1/albums/5yhNY3zM1Vx1oaL3GYTWIZ",
+          "id": "5yhNY3zM1Vx1oaL3GYTWIZ",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/fb6a87879a8d8fb9191fa3068d742038a6067fa8",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/7eabb296b5ba2babaa5ffafeda93af44477ddc78",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/07fb4fb36de2cf69174952136c687e1dfa946b87",
+              "width": 64
+            }
+          ],
+          "name": "Don't Let Me Down (Remixes)",
+          "type": "album",
+          "uri": "spotify:album:5yhNY3zM1Vx1oaL3GYTWIZ"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+            },
+            "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+            "id": "69GGBxA162lTqCwzJG5jLp",
+            "name": "The Chainsmokers",
+            "type": "artist",
+            "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+            },
+            "href": "https://api.spotify.com/v1/artists/6Dd3NScHWwnW6obMFbl1BH",
+            "id": "6Dd3NScHWwnW6obMFbl1BH",
+            "name": "Daya",
+            "type": "artist",
+            "uri": "spotify:artist:6Dd3NScHWwnW6obMFbl1BH"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+            },
+            "href": "https://api.spotify.com/v1/artists/2rTo8KIkBTFjQS7VvaKYQ4",
+            "id": "2rTo8KIkBTFjQS7VvaKYQ4",
+            "name": "W&W",
+            "type": "artist",
+            "uri": "spotify:artist:2rTo8KIkBTFjQS7VvaKYQ4"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TR",
+          "TW",
+          "US",
+          "UY"
+        ],
+        "disc_number": 1,
+        "duration_ms": 195093,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "USQX91600502"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4s2rzq6ZpCfg5ODq0z79QG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4s2rzq6ZpCfg5ODq0z79QG",
+        "id": "4s2rzq6ZpCfg5ODq0z79QG",
+        "name": "Don't Let Me Down - W&W Remix",
+        "popularity": 69,
+        "preview_url": "https://p.scdn.co/mp3-preview/ea7c23710be5cfcf75d29da19dc0390342af6f91?cid=null",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4s2rzq6ZpCfg5ODq0z79QG"
+      }
+    ],
+    "limit": 20,
+    "next": "https://api.spotify.com/v1/search?query=chainsmokers&offset=20&limit=20&type=track",
+    "offset": 0,
+    "previous": null,
+    "total": 467
+  }
+}

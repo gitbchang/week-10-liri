@@ -8,8 +8,7 @@ var fs = require("fs");
 var client = new twitter(config.twitterKeys);
 // console.log(client);
 var userInput = process.argv[2];
-// var spotifySearch;
-var movieName;
+
 // console.log(userInput);
 // for (var prop in twitter.twitterKeys){
 //   console.log(prop);
@@ -25,11 +24,10 @@ switch (userInput) {
         myTweets();
         break;
     case "spotify":
-        // getSpotifySong();
         spotifyThis();
+        // testSpotify();
         break;
     case "movie-this":
-        getMovieTitle();
         movieThis();
         break;
     case "do-what-it-says":
@@ -78,22 +76,6 @@ function myTweets() {
 
 }
 
-function getSpotifySong() {
-    // process.argv[4] is the start of the song
-    var songArray = [];
-    for (var i = 3; 4 < 20; i++) {
-        if (process.argv[i] === undefined) {
-            break;
-        } else {
-            songArray.push(process.argv[i]);
-        }
-
-    }
-    spotifySearch = songArray.join(" ");
-    // console.log("song array: " + songArray);
-    // console.log(spotifySearch);
-}
-
 function giveMeAce() {
     // '0hrBpAOgrt8RXigk83LLNE'
     spotify.lookup({
@@ -118,7 +100,6 @@ function giveMeAce() {
 
 
 }
-
 // spotify-this-song
 // This will show the following information about the song in your terminal/bash window
 // Artist(s), Song Name, Preview link of Song, Album song is from
@@ -130,15 +111,15 @@ function spotifyThis() {
     var songArray = [];
 
     //Put the song query together
-    for(var i = 3; i < nodeArgs.length; i++){
+    for (var i = 3; i < nodeArgs.length; i++) {
         songArray.push(nodeArgs[i]);
     }
-    var spotifySearch = songArray.join(" ");
-    console.log(spotifySearch);
-    if(spotifySearch === ""){
+    var spotifySearch = songArray.join("+");
+    // Test to see what we are querying for
+    // console.log(spotifySearch);
+    if (spotifySearch === "") {
         giveMeAce();
-    }
-    else{
+    } else {
         spotify.search({
             type: 'track',
             query: spotifySearch
@@ -147,8 +128,13 @@ function spotifyThis() {
                 console.log('Error occurred: ' + err);
                 return;
             }
+            // console.log(JSON.stringify(data, null, 2));
+            // I want to look at the entire JSON object in a txt file
+            // fs.writeFile('helloworld.txt', JSON.stringify(data, null, 2), function(err) {
+            //     if (err) return console.log(err);
+            //     console.log('Hello World > helloworld.txt');
+            // });
 
-            // Do something with 'data'
             var start = data.tracks.items[0];
             // if search returns back nothing, output The Sign - Ace of Base
             if (start === undefined) {
@@ -183,27 +169,21 @@ function spotifyThis() {
     }
 
 }
-// Get Movie Title
-function getMovieTitle() {
-    // process.argv[4] is the start of the song
-    var movieNameArray = [];
-    for (var i = 3; 4 < 20; i++) {
-        if (process.argv[i] === undefined) {
-            break;
-        } else {
-            movieNameArray.push(process.argv[i]);
-        }
-
-    }
-    movieName = movieNameArray.join("+");
-    // console.log("song array: " + songArray);
-    // console.log(movieName);
-}
 
 // movie-this
 
 function movieThis() {
     // console.log("Movie function running");
+    var nodeArgs = process.argv;
+    var movieArray = [];
+
+    //Put the song query together
+    for (var i = 3; i < nodeArgs.length; i++) {
+        movieArray.push(nodeArgs[i]);
+    }
+    var movieName = movieArray.join("+");
+
+
     // http://www.omdbapi.com/?t=harry+potter&y=2011&plot=short&r=json
     // CREATE REQUEST LINK
     var queryURL = "https://www.omdbapi.com/?t=" + movieName + "&plot=short&tomatoes=true&r=json";
@@ -218,10 +198,9 @@ function movieThis() {
                 // console.log(body);
 
                 var movieInfo = JSON.parse(body);
-                if(movieInfo.Title === undefined){
+                if (movieInfo.Title === undefined) {
                     giveMeNobody();
-                }
-                else{
+                } else {
                     var movieTitle = movieInfo.Title;
                     var movieYear = movieInfo.Year;
                     var imdbRating = movieInfo.imdbRating;
@@ -277,11 +256,10 @@ function giveMeNobody() {
 // do-what-it-says
 function doThis() {
     // console.log("Do THIS function running");
-    fs.readFile("./random.txt", "utf8", function(err, data){
-        if(err){
+    fs.readFile("./random.txt", "utf8", function(err, data) {
+        if (err) {
             console.log(err);
-        }
-        else{
+        } else {
             var test = data.toString();
             console.log(test);
             // console.log(require('child_process').execFileSync(data).toString());
