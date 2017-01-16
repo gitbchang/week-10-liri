@@ -140,6 +140,32 @@ function spotifyThis() {
             if (start === undefined) {
                 giveMeAce();
             } else {
+
+                for (var j = 0; j < data.tracks.items.length; j++){
+
+                    // CHECK IF MORE THAN 1 ARTIST
+                    var tempArtists = [];
+                    var allArtists;
+                    for (var i = 0; i < data.tracks.items[j].artists.length; i++) {
+                        if (data.tracks.items[j].artists[i].name !== undefined) {
+                            tempArtists.push(data.tracks.items[j].artists[i].name);
+
+                        }
+                    }
+                    // console.log(data.tracks.items[j]);
+                    // data.tracks.items[j].artists[0].name
+                    allArtists = tempArtists.join(" & ");
+                    console.log("================RESULT "+(j+1)+"==========================" );
+                    console.log("Track Name: " + data.tracks.items[j].name);
+                    console.log("Artist Name: " + allArtists);
+                    console.log("Preview Link: " + data.tracks.items[j].preview_url);
+                    console.log("Album Name " + data.tracks.items[j].album.name);
+                    console.log("===================================================" );
+                }
+
+
+                // THE BELOW CODE WAS TO PRINT OUT A SINGLE TRACK
+                /*
                 var artists = start.artists[3];
                 var tempArtists = [];
                 var allArtists;
@@ -162,6 +188,7 @@ function spotifyThis() {
                 console.log("Artists: " + allArtists);
                 console.log("Preview Link: " + previewLink);
                 console.log("Album Name: " + albumName);
+                */
             }
 
 
