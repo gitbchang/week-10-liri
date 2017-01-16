@@ -8,7 +8,7 @@ var fs = require("fs");
 var client = new twitter(config.twitterKeys);
 // console.log(client);
 var userInput = process.argv[2];
-var spotifySearch;
+// var spotifySearch;
 var movieName;
 // console.log(userInput);
 // for (var prop in twitter.twitterKeys){
@@ -25,7 +25,7 @@ switch (userInput) {
         myTweets();
         break;
     case "spotify":
-        getSpotifySong();
+        // getSpotifySong();
         spotifyThis();
         break;
     case "movie-this":
@@ -126,6 +126,15 @@ function giveMeAce() {
 
 function spotifyThis() {
     // console.log("Spotify function running");
+    var nodeArgs = process.argv;
+    var songArray = [];
+
+    //Put the song query together
+    for(var i = 3; i < nodeArgs.length; i++){
+        songArray.push(nodeArgs[i]);
+    }
+    var spotifySearch = songArray.join(" ");
+    console.log(spotifySearch);
     if(spotifySearch === ""){
         giveMeAce();
     }
@@ -162,7 +171,7 @@ function spotifyThis() {
                     }
 
                 }
-                // console.log(start);
+                console.log(data);
                 console.log("Title: " + songName);
                 console.log("Artists: " + allArtists);
                 console.log("Preview Link: " + previewLink);
