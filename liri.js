@@ -283,14 +283,27 @@ function giveMeNobody() {
 // do-what-it-says
 function doThis() {
     // console.log("Do THIS function running");
+    /*
+    var execFile = require('child_process').execFile;
+    execFile('./random.txt', "utf8", function(error, stdout, stderr){
+        if(error){
+            console.log(error);
+        }
+        console.log(stdout);
+    });
+    */
+
     fs.readFile("./random.txt", "utf8", function(err, data) {
         if (err) {
             console.log(err);
         } else {
-            var test = data.toString();
-            console.log(test);
-            // console.log(require('child_process').execFileSync(data).toString());
+            // var test = JSON.stringify(data, null, 2);
+            // console.log(data);
+            // console.log(test);
             console.log(require('child_process').execSync(data).toString());
+            // console.log(require('child_process').exec(test));
         }
     });
+
+
 }
