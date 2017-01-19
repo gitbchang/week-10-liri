@@ -1,4 +1,2954 @@
+======================================================
 [
+  {
+    "created_at": "Thu Jan 19 21:37:37 +0000 2017",
+    "id": 822196339941535700,
+    "id_str": "822196339941535744",
+    "text": "20 tweets",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1480226449,
+      "id_str": "1480226449",
+      "name": "BC",
+      "screen_name": "bhcwhatwut",
+      "location": "Austin, TX",
+      "description": "Finance ❯ IT Consulting ❯ Full-stack Dev",
+      "url": "https://t.co/576PTt65bi",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/576PTt65bi",
+              "expanded_url": "http://bchangatx.com",
+              "display_url": "bchangatx.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 25,
+      "friends_count": 100,
+      "listed_count": 0,
+      "created_at": "Mon Jun 03 17:17:14 +0000 2013",
+      "favourites_count": 13,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 20,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/811700355692015616/bVVkOEqD_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/811700355692015616/bVVkOEqD_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jan 19 21:37:15 +0000 2017",
+    "id": 822196245347307500,
+    "id_str": "822196245347307524",
+    "text": "RT @Real_CSS_Tricks: 2016 JavaScript Rising Stars :: https://t.co/De8EYinbRZ https://t.co/0y7ErgN78d",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Real_CSS_Tricks",
+          "name": "CSS-Tricks",
+          "id": 285019665,
+          "id_str": "285019665",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/De8EYinbRZ",
+          "expanded_url": "https://risingstars2016.js.org/",
+          "display_url": "risingstars2016.js.org",
+          "indices": [
+            53,
+            76
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 822182931942645800,
+          "id_str": "822182931942645760",
+          "indices": [
+            77,
+            100
+          ],
+          "media_url": "http://pbs.twimg.com/media/C2j7BT7UoAAIOFj.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C2j7BT7UoAAIOFj.jpg",
+          "url": "https://t.co/0y7ErgN78d",
+          "display_url": "pic.twitter.com/0y7ErgN78d",
+          "expanded_url": "https://twitter.com/Real_CSS_Tricks/status/822182953996402690/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 569,
+              "h": 479,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 569,
+              "h": 479,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 569,
+              "h": 479,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 822182953996402700,
+          "source_status_id_str": "822182953996402690",
+          "source_user_id": 285019665,
+          "source_user_id_str": "285019665"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 822182931942645800,
+          "id_str": "822182931942645760",
+          "indices": [
+            77,
+            100
+          ],
+          "media_url": "http://pbs.twimg.com/media/C2j7BT7UoAAIOFj.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C2j7BT7UoAAIOFj.jpg",
+          "url": "https://t.co/0y7ErgN78d",
+          "display_url": "pic.twitter.com/0y7ErgN78d",
+          "expanded_url": "https://twitter.com/Real_CSS_Tricks/status/822182953996402690/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 569,
+              "h": 479,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 569,
+              "h": 479,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 569,
+              "h": 479,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 822182953996402700,
+          "source_status_id_str": "822182953996402690",
+          "source_user_id": 285019665,
+          "source_user_id_str": "285019665"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1480226449,
+      "id_str": "1480226449",
+      "name": "BC",
+      "screen_name": "bhcwhatwut",
+      "location": "Austin, TX",
+      "description": "Finance ❯ IT Consulting ❯ Full-stack Dev",
+      "url": "https://t.co/576PTt65bi",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/576PTt65bi",
+              "expanded_url": "http://bchangatx.com",
+              "display_url": "bchangatx.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 25,
+      "friends_count": 100,
+      "listed_count": 0,
+      "created_at": "Mon Jun 03 17:17:14 +0000 2013",
+      "favourites_count": 13,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 20,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/811700355692015616/bVVkOEqD_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/811700355692015616/bVVkOEqD_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jan 19 20:44:26 +0000 2017",
+      "id": 822182953996402700,
+      "id_str": "822182953996402690",
+      "text": "2016 JavaScript Rising Stars :: https://t.co/De8EYinbRZ https://t.co/0y7ErgN78d",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/De8EYinbRZ",
+            "expanded_url": "https://risingstars2016.js.org/",
+            "display_url": "risingstars2016.js.org",
+            "indices": [
+              32,
+              55
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 822182931942645800,
+            "id_str": "822182931942645760",
+            "indices": [
+              56,
+              79
+            ],
+            "media_url": "http://pbs.twimg.com/media/C2j7BT7UoAAIOFj.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C2j7BT7UoAAIOFj.jpg",
+            "url": "https://t.co/0y7ErgN78d",
+            "display_url": "pic.twitter.com/0y7ErgN78d",
+            "expanded_url": "https://twitter.com/Real_CSS_Tricks/status/822182953996402690/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 569,
+                "h": 479,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 569,
+                "h": 479,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 569,
+                "h": 479,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 822182931942645800,
+            "id_str": "822182931942645760",
+            "indices": [
+              56,
+              79
+            ],
+            "media_url": "http://pbs.twimg.com/media/C2j7BT7UoAAIOFj.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C2j7BT7UoAAIOFj.jpg",
+            "url": "https://t.co/0y7ErgN78d",
+            "display_url": "pic.twitter.com/0y7ErgN78d",
+            "expanded_url": "https://twitter.com/Real_CSS_Tricks/status/822182953996402690/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 569,
+                "h": 479,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 569,
+                "h": 479,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 569,
+                "h": 479,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 285019665,
+        "id_str": "285019665",
+        "name": "CSS-Tricks",
+        "screen_name": "Real_CSS_Tricks",
+        "location": "Chris in MKE + Remote Team",
+        "description": "The official account for https://t.co/QA8ZTOUHWf, a web design community curated by @chriscoyier and a crack team.",
+        "url": "http://t.co/MPUasUSEx1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/MPUasUSEx1",
+                "expanded_url": "http://css-tricks.com",
+                "display_url": "css-tricks.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/QA8ZTOUHWf",
+                "expanded_url": "http://CSS-Tricks.com",
+                "display_url": "CSS-Tricks.com",
+                "indices": [
+                  25,
+                  48
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 304245,
+        "friends_count": 1916,
+        "listed_count": 6297,
+        "created_at": "Wed Apr 20 11:40:04 +0000 2011",
+        "favourites_count": 926,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3839,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "CECFC7",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/651224972/bmmx9vno5pmrij14kd1s.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/651224972/bmmx9vno5pmrij14kd1s.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/546011298627334146/MAeF2-yK_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/546011298627334146/MAeF2-yK_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/285019665/1399309574",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 43,
+      "favorite_count": 82,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 43,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jan 19 21:36:56 +0000 2017",
+    "id": 822196167379456000,
+    "id_str": "822196167379456000",
+    "text": "RT @SteveCarell: My account was hacked by Toby Flenderson.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "SteveCarell",
+          "name": "Steve Carell",
+          "id": 500042487,
+          "id_str": "500042487",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1480226449,
+      "id_str": "1480226449",
+      "name": "BC",
+      "screen_name": "bhcwhatwut",
+      "location": "Austin, TX",
+      "description": "Finance ❯ IT Consulting ❯ Full-stack Dev",
+      "url": "https://t.co/576PTt65bi",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/576PTt65bi",
+              "expanded_url": "http://bchangatx.com",
+              "display_url": "bchangatx.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 25,
+      "friends_count": 100,
+      "listed_count": 0,
+      "created_at": "Mon Jun 03 17:17:14 +0000 2013",
+      "favourites_count": 13,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 20,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/811700355692015616/bVVkOEqD_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/811700355692015616/bVVkOEqD_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jan 19 15:55:31 +0000 2017",
+      "id": 822110246281674800,
+      "id_str": "822110246281674752",
+      "text": "My account was hacked by Toby Flenderson.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 500042487,
+        "id_str": "500042487",
+        "name": "Steve Carell",
+        "screen_name": "SteveCarell",
+        "location": "Los Angeles",
+        "description": "Official Steve Carell",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 4989507,
+        "friends_count": 52,
+        "listed_count": 13750,
+        "created_at": "Wed Feb 22 18:57:30 +0000 2012",
+        "favourites_count": 0,
+        "utc_offset": -36000,
+        "time_zone": "Hawaii",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 147,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/771722848704475136/4doM7H7R_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/771722848704475136/4doM7H7R_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 113931,
+      "favorite_count": 211695,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 113931,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Jan 18 02:21:44 +0000 2017",
+    "id": 821543061549367300,
+    "id_str": "821543061549367297",
+    "text": "plugging - https://t.co/Q9IwCfxdKl \nThe portfolio page is almost finished. Used array object to build proj info cards on the fly",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Q9IwCfxdKl",
+          "expanded_url": "http://bchangatx.com",
+          "display_url": "bchangatx.com",
+          "indices": [
+            11,
+            34
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1480226449,
+      "id_str": "1480226449",
+      "name": "BC",
+      "screen_name": "bhcwhatwut",
+      "location": "Austin, TX",
+      "description": "Finance ❯ IT Consulting ❯ Full-stack Dev",
+      "url": "https://t.co/576PTt65bi",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/576PTt65bi",
+              "expanded_url": "http://bchangatx.com",
+              "display_url": "bchangatx.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 25,
+      "friends_count": 100,
+      "listed_count": 0,
+      "created_at": "Mon Jun 03 17:17:14 +0000 2013",
+      "favourites_count": 13,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 20,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/811700355692015616/bVVkOEqD_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/811700355692015616/bVVkOEqD_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jan 17 18:26:13 +0000 2017",
+    "id": 821423394294001700,
+    "id_str": "821423394294001664",
+    "text": "reading over eloquent javascript now. very informative once you have the basics of javascript",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1480226449,
+      "id_str": "1480226449",
+      "name": "BC",
+      "screen_name": "bhcwhatwut",
+      "location": "Austin, TX",
+      "description": "Finance ❯ IT Consulting ❯ Full-stack Dev",
+      "url": "https://t.co/576PTt65bi",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/576PTt65bi",
+              "expanded_url": "http://bchangatx.com",
+              "display_url": "bchangatx.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 25,
+      "friends_count": 100,
+      "listed_count": 0,
+      "created_at": "Mon Jun 03 17:17:14 +0000 2013",
+      "favourites_count": 13,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 20,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/811700355692015616/bVVkOEqD_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/811700355692015616/bVVkOEqD_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jan 12 17:12:44 +0000 2017",
+    "id": 819592964943073300,
+    "id_str": "819592964943073280",
+    "text": "RT @seobrien: Austin's #startup economy? Meet the landscape of #Austin #VC, literally. Or geographically: https://t.co/pXtfPE46UC https://t…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "startup",
+          "indices": [
+            23,
+            31
+          ]
+        },
+        {
+          "text": "Austin",
+          "indices": [
+            63,
+            70
+          ]
+        },
+        {
+          "text": "VC",
+          "indices": [
+            71,
+            74
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "seobrien",
+          "name": "Paul O'Brien",
+          "id": 1048931,
+          "id_str": "1048931",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pXtfPE46UC",
+          "expanded_url": "http://bit.ly/austin-vc",
+          "display_url": "bit.ly/austin-vc",
+          "indices": [
+            106,
+            129
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1480226449,
+      "id_str": "1480226449",
+      "name": "BC",
+      "screen_name": "bhcwhatwut",
+      "location": "Austin, TX",
+      "description": "Finance ❯ IT Consulting ❯ Full-stack Dev",
+      "url": "https://t.co/576PTt65bi",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/576PTt65bi",
+              "expanded_url": "http://bchangatx.com",
+              "display_url": "bchangatx.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 25,
+      "friends_count": 100,
+      "listed_count": 0,
+      "created_at": "Mon Jun 03 17:17:14 +0000 2013",
+      "favourites_count": 13,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 20,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/811700355692015616/bVVkOEqD_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/811700355692015616/bVVkOEqD_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed May 04 15:28:27 +0000 2016",
+      "id": 727882590498127900,
+      "id_str": "727882590498127873",
+      "text": "Austin's #startup economy? Meet the landscape of #Austin #VC, literally. Or geographically: https://t.co/pXtfPE46UC https://t.co/oQGUre6lsD",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "startup",
+            "indices": [
+              9,
+              17
+            ]
+          },
+          {
+            "text": "Austin",
+            "indices": [
+              49,
+              56
+            ]
+          },
+          {
+            "text": "VC",
+            "indices": [
+              57,
+              60
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/pXtfPE46UC",
+            "expanded_url": "http://bit.ly/austin-vc",
+            "display_url": "bit.ly/austin-vc",
+            "indices": [
+              92,
+              115
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 727882589667627000,
+            "id_str": "727882589667627009",
+            "indices": [
+              116,
+              139
+            ],
+            "media_url": "http://pbs.twimg.com/media/Chn1W9tUkAENUbg.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Chn1W9tUkAENUbg.jpg",
+            "url": "https://t.co/oQGUre6lsD",
+            "display_url": "pic.twitter.com/oQGUre6lsD",
+            "expanded_url": "https://twitter.com/seobrien/status/727882590498127873/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 534,
+                "h": 359,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 229,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 534,
+                "h": 359,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 727882589667627000,
+            "id_str": "727882589667627009",
+            "indices": [
+              116,
+              139
+            ],
+            "media_url": "http://pbs.twimg.com/media/Chn1W9tUkAENUbg.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Chn1W9tUkAENUbg.jpg",
+            "url": "https://t.co/oQGUre6lsD",
+            "display_url": "pic.twitter.com/oQGUre6lsD",
+            "expanded_url": "https://twitter.com/seobrien/status/727882590498127873/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 534,
+                "h": 359,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 229,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 534,
+                "h": 359,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1048931,
+        "id_str": "1048931",
+        "name": "Paul O'Brien",
+        "screen_name": "seobrien",
+        "location": "Texas",
+        "description": "CMO to #VC. Founder @MediaTechVent, Thought Provoker, #Startup Advisor. I get you funded. Author, #Austin & @AccelerateTexas. Peek at https://t.co/S4mkvkew0k",
+        "url": "https://t.co/pGzb3Qw0gp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/pGzb3Qw0gp",
+                "expanded_url": "https://seobrien.com",
+                "display_url": "seobrien.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/S4mkvkew0k",
+                "expanded_url": "http://seobrien.com",
+                "display_url": "seobrien.com",
+                "indices": [
+                  134,
+                  157
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 30628,
+        "friends_count": 22807,
+        "listed_count": 1007,
+        "created_at": "Mon Mar 12 22:30:15 +0000 2007",
+        "favourites_count": 110314,
+        "utc_offset": -21600,
+        "time_zone": "Central Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 18522,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "B2D4E6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/30257957/twitter.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/30257957/twitter.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/760305967410012160/7NRBVj_V_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/760305967410012160/7NRBVj_V_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1048931/1473987658",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 76,
+      "favorite_count": 160,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 76,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jan 12 03:44:18 +0000 2017",
+    "id": 819389515039121400,
+    "id_str": "819389515039121409",
+    "text": "@PRIMENIGHTCULT @Nakid_Magazine been doing good things since you started prime. please lmk if you decide to have wristbands",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "PRIMENIGHTCULT",
+          "name": "+PRIME+",
+          "id": 2522345400,
+          "id_str": "2522345400",
+          "indices": [
+            0,
+            15
+          ]
+        },
+        {
+          "screen_name": "Nakid_Magazine",
+          "name": "Nakid Magazine",
+          "id": 2746328534,
+          "id_str": "2746328534",
+          "indices": [
+            16,
+            31
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 819341441294069800,
+    "in_reply_to_status_id_str": "819341441294069760",
+    "in_reply_to_user_id": 2522345400,
+    "in_reply_to_user_id_str": "2522345400",
+    "in_reply_to_screen_name": "PRIMENIGHTCULT",
+    "user": {
+      "id": 1480226449,
+      "id_str": "1480226449",
+      "name": "BC",
+      "screen_name": "bhcwhatwut",
+      "location": "Austin, TX",
+      "description": "Finance ❯ IT Consulting ❯ Full-stack Dev",
+      "url": "https://t.co/576PTt65bi",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/576PTt65bi",
+              "expanded_url": "http://bchangatx.com",
+              "display_url": "bchangatx.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 25,
+      "friends_count": 100,
+      "listed_count": 0,
+      "created_at": "Mon Jun 03 17:17:14 +0000 2013",
+      "favourites_count": 13,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 20,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/811700355692015616/bVVkOEqD_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/811700355692015616/bVVkOEqD_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jan 12 02:12:21 +0000 2017",
+    "id": 819366373067554800,
+    "id_str": "819366373067554822",
+    "text": "Liri works",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://google.com\" rel=\"nofollow\">LIRIbot-bc</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1480226449,
+      "id_str": "1480226449",
+      "name": "BC",
+      "screen_name": "bhcwhatwut",
+      "location": "Austin, TX",
+      "description": "Finance ❯ IT Consulting ❯ Full-stack Dev",
+      "url": "https://t.co/576PTt65bi",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/576PTt65bi",
+              "expanded_url": "http://bchangatx.com",
+              "display_url": "bchangatx.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 25,
+      "friends_count": 100,
+      "listed_count": 0,
+      "created_at": "Mon Jun 03 17:17:14 +0000 2013",
+      "favourites_count": 13,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 20,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/811700355692015616/bVVkOEqD_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/811700355692015616/bVVkOEqD_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jan 12 02:11:36 +0000 2017",
+    "id": 819366186769154000,
+    "id_str": "819366186769154049",
+    "text": "I am a tweet",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://google.com\" rel=\"nofollow\">LIRIbot-bc</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1480226449,
+      "id_str": "1480226449",
+      "name": "BC",
+      "screen_name": "bhcwhatwut",
+      "location": "Austin, TX",
+      "description": "Finance ❯ IT Consulting ❯ Full-stack Dev",
+      "url": "https://t.co/576PTt65bi",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/576PTt65bi",
+              "expanded_url": "http://bchangatx.com",
+              "display_url": "bchangatx.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 25,
+      "friends_count": 100,
+      "listed_count": 0,
+      "created_at": "Mon Jun 03 17:17:14 +0000 2013",
+      "favourites_count": 13,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 20,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/811700355692015616/bVVkOEqD_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/811700355692015616/bVVkOEqD_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Jan 11 19:29:54 +0000 2017",
+    "id": 819265094525784000,
+    "id_str": "819265094525784064",
+    "text": "RT @wesbos: Twitter is great because the creator of JavaScript will help you with JavaScript within 7 minutes https://t.co/3XrQZtTF7E",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "wesbos",
+          "name": "Wes Bos",
+          "id": 815246,
+          "id_str": "815246",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 818571117933695000,
+          "id_str": "818571117933694976",
+          "indices": [
+            110,
+            133
+          ],
+          "media_url": "http://pbs.twimg.com/media/C1wmGEPVEAAAjKC.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C1wmGEPVEAAAjKC.jpg",
+          "url": "https://t.co/3XrQZtTF7E",
+          "display_url": "pic.twitter.com/3XrQZtTF7E",
+          "expanded_url": "https://twitter.com/wesbos/status/818571126150406144/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 559,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 749,
+              "h": 911,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 749,
+              "h": 911,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 818571126150406100,
+          "source_status_id_str": "818571126150406144",
+          "source_user_id": 815246,
+          "source_user_id_str": "815246"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 818571117933695000,
+          "id_str": "818571117933694976",
+          "indices": [
+            110,
+            133
+          ],
+          "media_url": "http://pbs.twimg.com/media/C1wmGEPVEAAAjKC.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C1wmGEPVEAAAjKC.jpg",
+          "url": "https://t.co/3XrQZtTF7E",
+          "display_url": "pic.twitter.com/3XrQZtTF7E",
+          "expanded_url": "https://twitter.com/wesbos/status/818571126150406144/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 559,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 749,
+              "h": 911,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 749,
+              "h": 911,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 818571126150406100,
+          "source_status_id_str": "818571126150406144",
+          "source_user_id": 815246,
+          "source_user_id_str": "815246"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1480226449,
+      "id_str": "1480226449",
+      "name": "BC",
+      "screen_name": "bhcwhatwut",
+      "location": "Austin, TX",
+      "description": "Finance ❯ IT Consulting ❯ Full-stack Dev",
+      "url": "https://t.co/576PTt65bi",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/576PTt65bi",
+              "expanded_url": "http://bchangatx.com",
+              "display_url": "bchangatx.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 25,
+      "friends_count": 100,
+      "listed_count": 0,
+      "created_at": "Mon Jun 03 17:17:14 +0000 2013",
+      "favourites_count": 13,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 20,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/811700355692015616/bVVkOEqD_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/811700355692015616/bVVkOEqD_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Jan 09 21:32:19 +0000 2017",
+      "id": 818571126150406100,
+      "id_str": "818571126150406144",
+      "text": "Twitter is great because the creator of JavaScript will help you with JavaScript within 7 minutes https://t.co/3XrQZtTF7E",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 818571117933695000,
+            "id_str": "818571117933694976",
+            "indices": [
+              98,
+              121
+            ],
+            "media_url": "http://pbs.twimg.com/media/C1wmGEPVEAAAjKC.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C1wmGEPVEAAAjKC.jpg",
+            "url": "https://t.co/3XrQZtTF7E",
+            "display_url": "pic.twitter.com/3XrQZtTF7E",
+            "expanded_url": "https://twitter.com/wesbos/status/818571126150406144/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 559,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 749,
+                "h": 911,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 749,
+                "h": 911,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 818571117933695000,
+            "id_str": "818571117933694976",
+            "indices": [
+              98,
+              121
+            ],
+            "media_url": "http://pbs.twimg.com/media/C1wmGEPVEAAAjKC.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C1wmGEPVEAAAjKC.jpg",
+            "url": "https://t.co/3XrQZtTF7E",
+            "display_url": "pic.twitter.com/3XrQZtTF7E",
+            "expanded_url": "https://twitter.com/wesbos/status/818571126150406144/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 559,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 749,
+                "h": 911,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 749,
+                "h": 911,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 815246,
+        "id_str": "815246",
+        "name": "Wes Bos",
+        "screen_name": "wesbos",
+        "location": "Hamilton, Canada",
+        "description": "Fullstack Dev ❯ JS⚛ CSS Node ❯ https://t.co/Lm9Bj5fRgO ❯ https://t.co/TEAKlR2x9L  ❯ https://t.co/l8S8ZPfBPT ❯ Lead instructor @hackeryou ❯ Hot Tips ❯ ♥@KaitBos",
+        "url": "https://t.co/poIFOQ4h7C",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/poIFOQ4h7C",
+                "expanded_url": "http://wesbos.com",
+                "display_url": "wesbos.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/Lm9Bj5fRgO",
+                "expanded_url": "https://ES6.io",
+                "display_url": "ES6.io",
+                "indices": [
+                  31,
+                  54
+                ]
+              },
+              {
+                "url": "https://t.co/TEAKlR2x9L",
+                "expanded_url": "http://ReactForBeginners.com",
+                "display_url": "ReactForBeginners.com",
+                "indices": [
+                  57,
+                  80
+                ]
+              },
+              {
+                "url": "https://t.co/l8S8ZPfBPT",
+                "expanded_url": "http://JavaScript30.com",
+                "display_url": "JavaScript30.com",
+                "indices": [
+                  84,
+                  107
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 87312,
+        "friends_count": 1439,
+        "listed_count": 1784,
+        "created_at": "Tue Mar 06 16:10:09 +0000 2007",
+        "favourites_count": 29447,
+        "utc_offset": -21600,
+        "time_zone": "Central Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 43855,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "193549",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/624699708745781248/6018dak6.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/624699708745781248/6018dak6.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/623184294521929728/LUJ4qL8n_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/623184294521929728/LUJ4qL8n_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/815246/1445994818",
+        "profile_link_color": "193549",
+        "profile_sidebar_border_color": "392C44",
+        "profile_sidebar_fill_color": "F0F0F0",
+        "profile_text_color": "1C1C1C",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3199,
+      "favorite_count": 5380,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3199,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Jan 11 19:24:57 +0000 2017",
+    "id": 819263851225120800,
+    "id_str": "819263851225120769",
+    "text": "https://t.co/UpcJDKI2Q4",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/UpcJDKI2Q4",
+          "expanded_url": "https://i.imgflip.com/1hh9qv.jpg",
+          "display_url": "i.imgflip.com/1hh9qv.jpg",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1480226449,
+      "id_str": "1480226449",
+      "name": "BC",
+      "screen_name": "bhcwhatwut",
+      "location": "Austin, TX",
+      "description": "Finance ❯ IT Consulting ❯ Full-stack Dev",
+      "url": "https://t.co/576PTt65bi",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/576PTt65bi",
+              "expanded_url": "http://bchangatx.com",
+              "display_url": "bchangatx.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 25,
+      "friends_count": 100,
+      "listed_count": 0,
+      "created_at": "Mon Jun 03 17:17:14 +0000 2013",
+      "favourites_count": 13,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 20,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/811700355692015616/bVVkOEqD_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/811700355692015616/bVVkOEqD_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Wed Jan 11 19:23:21 +0000 2017",
+    "id": 819263445770051600,
+    "id_str": "819263445770051584",
+    "text": "@hollysterr hey did not know you still use twitter. i'm trying to use it more",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "hollysterr",
+          "name": "Holly Chu",
+          "id": 21721971,
+          "id_str": "21721971",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 21721971,
+    "in_reply_to_user_id_str": "21721971",
+    "in_reply_to_screen_name": "hollysterr",
+    "user": {
+      "id": 1480226449,
+      "id_str": "1480226449",
+      "name": "BC",
+      "screen_name": "bhcwhatwut",
+      "location": "Austin, TX",
+      "description": "Finance ❯ IT Consulting ❯ Full-stack Dev",
+      "url": "https://t.co/576PTt65bi",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/576PTt65bi",
+              "expanded_url": "http://bchangatx.com",
+              "display_url": "bchangatx.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 25,
+      "friends_count": 100,
+      "listed_count": 0,
+      "created_at": "Mon Jun 03 17:17:14 +0000 2013",
+      "favourites_count": 13,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 20,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/811700355692015616/bVVkOEqD_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/811700355692015616/bVVkOEqD_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Jan 11 19:18:48 +0000 2017",
+    "id": 819262301643636700,
+    "id_str": "819262301643636747",
+    "text": "@codewars could you send out a tweet when your servers are back to normal?",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "codewars",
+          "name": "Codewars",
+          "id": 709267872,
+          "id_str": "709267872",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 709267872,
+    "in_reply_to_user_id_str": "709267872",
+    "in_reply_to_screen_name": "codewars",
+    "user": {
+      "id": 1480226449,
+      "id_str": "1480226449",
+      "name": "BC",
+      "screen_name": "bhcwhatwut",
+      "location": "Austin, TX",
+      "description": "Finance ❯ IT Consulting ❯ Full-stack Dev",
+      "url": "https://t.co/576PTt65bi",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/576PTt65bi",
+              "expanded_url": "http://bchangatx.com",
+              "display_url": "bchangatx.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 25,
+      "friends_count": 100,
+      "listed_count": 0,
+      "created_at": "Mon Jun 03 17:17:14 +0000 2013",
+      "favourites_count": 13,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 20,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/811700355692015616/bVVkOEqD_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/811700355692015616/bVVkOEqD_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jan 05 19:52:10 +0000 2017",
+    "id": 817096372084207600,
+    "id_str": "817096372084207617",
+    "text": "im all about that (fire)base",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1480226449,
+      "id_str": "1480226449",
+      "name": "BC",
+      "screen_name": "bhcwhatwut",
+      "location": "Austin, TX",
+      "description": "Finance ❯ IT Consulting ❯ Full-stack Dev",
+      "url": "https://t.co/576PTt65bi",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/576PTt65bi",
+              "expanded_url": "http://bchangatx.com",
+              "display_url": "bchangatx.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 25,
+      "friends_count": 100,
+      "listed_count": 0,
+      "created_at": "Mon Jun 03 17:17:14 +0000 2013",
+      "favourites_count": 13,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 20,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/811700355692015616/bVVkOEqD_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/811700355692015616/bVVkOEqD_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Dec 26 20:22:23 +0000 2016",
+    "id": 813480096426315800,
+    "id_str": "813480096426315777",
+    "text": "Google Home/Assistant will not be a true \"conversational\" voice assistant until saying \"OK Google\" is not needed before every command",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1480226449,
+      "id_str": "1480226449",
+      "name": "BC",
+      "screen_name": "bhcwhatwut",
+      "location": "Austin, TX",
+      "description": "Finance ❯ IT Consulting ❯ Full-stack Dev",
+      "url": "https://t.co/576PTt65bi",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/576PTt65bi",
+              "expanded_url": "http://bchangatx.com",
+              "display_url": "bchangatx.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 25,
+      "friends_count": 100,
+      "listed_count": 0,
+      "created_at": "Mon Jun 03 17:17:14 +0000 2013",
+      "favourites_count": 13,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 20,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/811700355692015616/bVVkOEqD_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/811700355692015616/bVVkOEqD_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Dec 26 20:12:25 +0000 2016",
+    "id": 813477590795161600,
+    "id_str": "813477590795161601",
+    "text": "\"Listed at 346\" https://t.co/yd1kfejOQh",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/yd1kfejOQh",
+          "expanded_url": "https://twitter.com/NFL/status/787771684287750144",
+          "display_url": "twitter.com/NFL/status/787…",
+          "indices": [
+            16,
+            39
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1480226449,
+      "id_str": "1480226449",
+      "name": "BC",
+      "screen_name": "bhcwhatwut",
+      "location": "Austin, TX",
+      "description": "Finance ❯ IT Consulting ❯ Full-stack Dev",
+      "url": "https://t.co/576PTt65bi",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/576PTt65bi",
+              "expanded_url": "http://bchangatx.com",
+              "display_url": "bchangatx.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 25,
+      "friends_count": 100,
+      "listed_count": 0,
+      "created_at": "Mon Jun 03 17:17:14 +0000 2013",
+      "favourites_count": 13,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 20,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/811700355692015616/bVVkOEqD_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/811700355692015616/bVVkOEqD_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 787771684287750100,
+    "quoted_status_id_str": "787771684287750144",
+    "quoted_status": {
+      "created_at": "Sun Oct 16 21:46:20 +0000 2016",
+      "id": 787771684287750100,
+      "id_str": "787771684287750144",
+      "text": "🚨🚨 BIG MAN TD ALERT! 🚨🚨\n\n@PoeMans_dream is listed at 346lbs...\nAnd he just caught a TD from Alex Smith! https://t.co/SGHbZqZper",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "PoeMans_dream",
+            "name": "Dontari Poe",
+            "id": 91245131,
+            "id_str": "91245131",
+            "indices": [
+              25,
+              39
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/SGHbZqZper",
+            "expanded_url": "http://snpy.tv/2eapAiV",
+            "display_url": "snpy.tv/2eapAiV",
+            "indices": [
+              104,
+              127
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://snappytv.com\" rel=\"nofollow\">SnappyTV.com</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 19426551,
+        "id_str": "19426551",
+        "name": "NFL",
+        "screen_name": "NFL",
+        "location": "",
+        "description": "Official Twitter account of the National Football League. Our Social Media Policy: https://t.co/EyuKeW3SvK",
+        "url": "https://t.co/vIikzemJNp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/vIikzemJNp",
+                "expanded_url": "http://www.nfl.com",
+                "display_url": "nfl.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/EyuKeW3SvK",
+                "expanded_url": "http://on.nfl.com/ZNKG9n",
+                "display_url": "on.nfl.com/ZNKG9n",
+                "indices": [
+                  83,
+                  106
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 21020127,
+        "friends_count": 2159,
+        "listed_count": 45984,
+        "created_at": "Sat Jan 24 01:28:06 +0000 2009",
+        "favourites_count": 1216,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 135379,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/783952246/66e217ec60a9c3c977295fb8b7ae1601.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/783952246/66e217ec60a9c3c977295fb8b7ae1601.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/804347579475509248/THjHIDnN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/804347579475509248/THjHIDnN_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19426551/1484493092",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 746,
+      "favorite_count": 1226,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Dec 26 20:11:21 +0000 2016",
+    "id": 813477318773522400,
+    "id_str": "813477318773522432",
+    "text": "Having a strong urge to post cheesy inspiration quotes for employers to see 🤔",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1480226449,
+      "id_str": "1480226449",
+      "name": "BC",
+      "screen_name": "bhcwhatwut",
+      "location": "Austin, TX",
+      "description": "Finance ❯ IT Consulting ❯ Full-stack Dev",
+      "url": "https://t.co/576PTt65bi",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/576PTt65bi",
+              "expanded_url": "http://bchangatx.com",
+              "display_url": "bchangatx.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 25,
+      "friends_count": 100,
+      "listed_count": 0,
+      "created_at": "Mon Jun 03 17:17:14 +0000 2013",
+      "favourites_count": 13,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 20,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/811700355692015616/bVVkOEqD_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/811700355692015616/bVVkOEqD_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Dec 22 17:23:57 +0000 2016",
+    "id": 811985639650578400,
+    "id_str": "811985639650578432",
+    "text": "What The FlexBox?! A new video course by @wesbos →  https://t.co/rFqJIzEM5H",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "wesbos",
+          "name": "Wes Bos",
+          "id": 815246,
+          "id_str": "815246",
+          "indices": [
+            41,
+            48
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/rFqJIzEM5H",
+          "expanded_url": "http://FlexBox.io",
+          "display_url": "FlexBox.io",
+          "indices": [
+            52,
+            75
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1480226449,
+      "id_str": "1480226449",
+      "name": "BC",
+      "screen_name": "bhcwhatwut",
+      "location": "Austin, TX",
+      "description": "Finance ❯ IT Consulting ❯ Full-stack Dev",
+      "url": "https://t.co/576PTt65bi",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/576PTt65bi",
+              "expanded_url": "http://bchangatx.com",
+              "display_url": "bchangatx.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 25,
+      "friends_count": 100,
+      "listed_count": 0,
+      "created_at": "Mon Jun 03 17:17:14 +0000 2013",
+      "favourites_count": 13,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 20,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/811700355692015616/bVVkOEqD_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/811700355692015616/bVVkOEqD_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Dec 21 22:34:16 +0000 2016",
+    "id": 811701346202218500,
+    "id_str": "811701346202218496",
+    "text": "console.log(\"hello world\");",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1480226449,
+      "id_str": "1480226449",
+      "name": "BC",
+      "screen_name": "bhcwhatwut",
+      "location": "Austin, TX",
+      "description": "Finance ❯ IT Consulting ❯ Full-stack Dev",
+      "url": "https://t.co/576PTt65bi",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/576PTt65bi",
+              "expanded_url": "http://bchangatx.com",
+              "display_url": "bchangatx.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 25,
+      "friends_count": 100,
+      "listed_count": 0,
+      "created_at": "Mon Jun 03 17:17:14 +0000 2013",
+      "favourites_count": 13,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 20,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/811700355692015616/bVVkOEqD_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/811700355692015616/bVVkOEqD_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Dec 21 21:43:36 +0000 2016",
+    "id": 811688597262893000,
+    "id_str": "811688597262893056",
+    "text": "@wesbos Hey Wes, i'm trying to re-work some javascript30 courses using jquery. Do you have a forum where I can ask questions if i get stuck?",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "wesbos",
+          "name": "Wes Bos",
+          "id": 815246,
+          "id_str": "815246",
+          "indices": [
+            0,
+            7
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 815246,
+    "in_reply_to_user_id_str": "815246",
+    "in_reply_to_screen_name": "wesbos",
+    "user": {
+      "id": 1480226449,
+      "id_str": "1480226449",
+      "name": "BC",
+      "screen_name": "bhcwhatwut",
+      "location": "Austin, TX",
+      "description": "Finance ❯ IT Consulting ❯ Full-stack Dev",
+      "url": "https://t.co/576PTt65bi",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/576PTt65bi",
+              "expanded_url": "http://bchangatx.com",
+              "display_url": "bchangatx.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 25,
+      "friends_count": 100,
+      "listed_count": 0,
+      "created_at": "Mon Jun 03 17:17:14 +0000 2013",
+      "favourites_count": 13,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 20,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/811700355692015616/bVVkOEqD_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/811700355692015616/bVVkOEqD_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }
+]
+======================LINE BREAK======================[
   {
     "created_at": "Thu Jan 19 21:37:37 +0000 2017",
     "id": 822196339941535700,

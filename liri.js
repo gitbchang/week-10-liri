@@ -3,6 +3,7 @@ var twitter = require("twitter");
 var spotify = require('spotify');
 var request = require("request");
 var fs = require("fs");
+var prependFile = require('prepend-file');
 
 // Pass the consumer and access token of our Twitter application to twitter npm
 var client = new twitter(config.twitterKeys);
@@ -39,14 +40,23 @@ switch (userInput) {
 
 function logCommand(incomingData){
   // APPEND FILE AUTOMATICALLY CREATES FILE IF IT DOES NOT EXIST
-
+  var lineBreak1 = "======================================================\r\n";
+  var lineBreak2 = "\r\n======================LINE BREAK======================";
+/*
   fs.appendFile('log.txt', "\r\n" + JSON.stringify(incomingData, null, 2), function(err) {
       if (err) return console.log(err);
       console.log('Command Logged > log.txt');
   });
   fs.appendFile('log.txt', "\r\n======================LINE BREAK======================", function(err) {
       if (err) return console.log(err);
+  });
+*/
 
+  prependFile('log.txt', lineBreak1 + JSON.stringify(incomingData, null, 2) + lineBreak2, function (err) {
+    if(err){
+      console.log(err);
+    }
+    console.log('The "data to prepend" was prepended to file!');
   });
 
 
