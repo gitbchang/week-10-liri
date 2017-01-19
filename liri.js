@@ -37,6 +37,21 @@ switch (userInput) {
         console.log("Sorry");
 }
 
+function logCommand(incomingData){
+  // APPEND FILE AUTOMATICALLY CREATES FILE IF IT DOES NOT EXIST
+
+  fs.appendFile('log.txt', "\r\n" + JSON.stringify(incomingData, null, 2), function(err) {
+      if (err) return console.log(err);
+      console.log('Command Logged > log.txt');
+  });
+  fs.appendFile('log.txt', "\r\n======================LINE BREAK======================", function(err) {
+      if (err) return console.log(err);
+
+  });
+
+
+}
+
 
 // my-tweets
 // This will show your last 20 tweets and when they were created at in your terminal/bash window.
@@ -66,11 +81,12 @@ function myTweets() {
                 console.log((i + 1) + " tweet: " + tweets[i].text);
                 console.log((i + 1) + " tweet: " + tweets[i].created_at);
             }
+            logCommand(tweets);
             // console.log(tweets[0].text);
             // console.log(tweets[0].created_at);
 
         } else {
-            throw error;
+            console.log(error);
         }
     });
 
@@ -92,6 +108,8 @@ function giveMeAce() {
         console.log("Artist: " + theArtist);
         console.log("Preview Link: " + previewLink);
         console.log("Album Name: " + albumName);
+
+        logCommand(data);
         if (err) {
             console.log('Error occurred: ' + err);
             return;
@@ -140,7 +158,7 @@ function spotifyThis() {
             if (start === undefined) {
                 giveMeAce();
             } else {
-
+                logCommand(data);
                 for (var j = 0; j < data.tracks.items.length; j++){
 
                     // CHECK IF MORE THAN 1 ARTIST
@@ -228,6 +246,7 @@ function movieThis() {
                 if (movieInfo.Title === undefined) {
                     giveMeNobody();
                 } else {
+                    logCommand(body);
                     var movieTitle = movieInfo.Title;
                     var movieYear = movieInfo.Year;
                     var imdbRating = movieInfo.imdbRating;
@@ -262,6 +281,7 @@ function giveMeNobody() {
     request('http://www.omdbapi.com/?i=tt0485947&plot=short&tomatoes=true&r=json', function(error, response, body) {
         if (!error && response.statusCode == 200) {
             var nobodyInfo = JSON.parse(body);
+            logCommand(body);
             console.log("==============================");
             console.log("WE COULD NOT FIND YOUR MOVIE");
             console.log("==============================");
@@ -300,7 +320,19 @@ function doThis() {
             // var test = JSON.stringify(data, null, 2);
             // console.log(data);
             // console.log(test);
-            console.log(require('child_process').execSync(data).toString());
+            // SYNCHRONOUS SOLUTION
+            // console.log(require('child_process').execSync(data).toString());
+
+            // ASYNCHRONOUS SOLUTION - THIS IS BETTER FOR WEB DEVELOPMENT
+            var exec = require("child_process").exec;
+            exec(data, function(error, stdout){
+                if(error){
+                    console.error(error);
+                    return;
+                }
+                console.log(stdout);
+                // console.log(stderr);
+            });
             // console.log(require('child_process').exec(test));
         }
     });
